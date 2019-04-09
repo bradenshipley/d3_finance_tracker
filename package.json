@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "bcrypt": "^3.0.5",
+    "body-parser": "^1.18.3",
     "d3": "^5.9.2",
+    "express": "^4.16.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8",
